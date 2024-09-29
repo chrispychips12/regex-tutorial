@@ -33,7 +33,7 @@ console.log(regex.test("example@example.com")); // true
 console.log(regex.test("example.com")); // false
 ```
 
-### Quantifiers<img width="977" alt="Screenshot 2024-09-29 at 10 17 41 AM" src="https://github.com/user-attachments/assets/54b4e462-1444-4eab-a75b-004c3c0b8411">
+### Quantifiers
 
 
 Quantifiers specify how many instances of a character, group, or character class must be present in the input for a match to be found.
